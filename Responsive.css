@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media (max-width:975px){
+    .service h3{
+        font-size: 18px;
+    }
+}
+@media (max-width:950px){
+    .heading h1{
+        font-size: 45px;
+    }
+    .heading h3{
+        font-size: 20px;
+        margin-top: 20px;
+        font-weight: 400;
+    }
+    .btn{
+        padding: 7px 15px;
+    }
+}
+@media (max-width:897px){
+    .service h3{
+        font-size: 16px;
+    }
+    .service p{
+        font-size: 14px;
+    }
+    .service span{
+        font-size: 25px;
+    }
+}
+@media (max-width:850px){
+    .heading h1{
+        font-size: 30px;
+    }
+    .heading h3{
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    .btn{
+        margin:0;
+    }
+    .service{
+        padding: 80px;
+    }
+    .service h2{
+        font-size: 30px;
+    }
+
+}
+@media (max-width: 780px){
+    .boxs{
+        width: 24%;
+        margin-right: 1.8%;
+    }
+    .about .img-div{
+        width: 100%;
+    }
+    .about .img-div img{
+        width: 60%;
+        height: auto;
+    }
+    .about .content{
+        width: 100%;
+    }
+    .about{
+        padding: 50px;
+    }
+    .contact{
+        padding: 10px;
+    }
+}
+@media (max-width: 730px){
+    .service-box .boxs{
+        width: 50%;
+        margin-top: 15px;
+    }
+}
+@media (max-width:670px){
+    .logo a h2{
+        font-size: 20px;
+    }
+    .menu ul li a {
+        padding: 7px 15px;
+    }
+    .banner{
+        padding: 70px;
+    }
+    .heading h1{
+        font-size: 25px;
+    }
+}
+@media (max-width:630px){
+    .menu ul li a {
+        padding: 7px 10px;
+    }
+}
+@media (max-width:555px){
+    .logo a h2{
+        font-size: 17px;
+    }
+    .menu ul li a {
+        padding: 5px 5px;
+        font-size: 16px;
+    }
+}
+@media (max-width:525px){
+    .menu ul li a {
+        padding: 0px 5px;
+    }
+    .service{
+        padding: 60px;
+    }
+}
+@media (max-width:485px){
+    .logo{
+        width: 100%;
+        text-align: center;
+    }
+    .banner{
+        padding: 60px;
+    }
+    .menu{
+        width: 100%;
+        text-align: center;
+    }
+    .service h2{
+        font-size: 23px;
+    }
+    .service{
+        padding: 50px;
+    }
+}
+@media (max-width:350px){
+    .heading h1{
+        font-size: 20px;
+    }
+    .banner{
+        padding: 40px;
+    }
+    .service h2{
+        font-size: 19px;
+    }
+    .service{
+        padding: 35px;
+    }
+}
+
